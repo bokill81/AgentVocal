@@ -5,3 +5,6 @@ requests
 openai
 deepgram-sdk
 sounddevice
+websockets
+numpy
+twilio
